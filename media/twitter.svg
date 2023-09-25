@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<polygon points="28.4,26.84 55.56,63.16 61.71,63.16 34.55,26.84 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+	<path d="M 88.695 40.131 L 71.064 9.593 c -1.739 -3.013 -4.954 -4.869 -8.433 -4.869 H 27.369 c -3.479 0 -6.693 1.856 -8.433 4.869 L 1.305 40.131 c -1.739 3.013 -1.739 6.725 0 9.737 l 17.631 30.538 c 1.739 3.013 4.954 4.869 8.433 4.869 h 35.263 c 3.479 0 6.693 -1.856 8.433 -4.869 l 17.631 -30.538 C 90.435 46.856 90.435 43.144 88.695 40.131 z M 54.109 66.059 L 41.742 49.523 L 26.435 66.059 H 22.5 l 17.484 -18.888 L 22.61 23.941 H 36 l 11.39 15.23 l 14.097 -15.23 h 3.935 L 49.148 41.522 L 67.5 66.059 H 54.109 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</svg>

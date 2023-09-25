@@ -1,0 +1,134 @@
+#################################################
+############ GENERAL INFO ######################
+################################################
+info:
+  name: "Akai Omurbek uulu"
+  github: "https://akai-omurbek.github.io"
+  twitter: "https://twitter.com/AkaiOmurbek"
+  phone: "+996 772 19 79 12"
+  whatsapp: "+996 772 19 79 12"
+  address: "Toktogula str. 244-6, Bishkek"
+  email: "mailto:a.omurbekuulu@osce-academy.net"
+#################################################
+################ EDUCATION ######################
+################################################
+education:
+  - degree: "M.A. Politics and Security"
+    from: "The OSCE Academy in Bishkek"
+    dates: "Aug 2019 - Jan 2021"
+  - degree: "B.A. International Relations"
+    from: "Kyrgyz Turkish Manas University"
+    dates: "Sep 2013 - June 2017"
+#################################################
+############ WORK EXPERIENCE  ###################
+################################################
+workplaces:
+  - employer: "LLC Translation Agency Tilmech"
+    addr: "Abdrakhmanova 146-10"
+    pos: "Freelance/Translator"
+    dates: "Jun 2021 - present"
+    notes: [
+      "Document translation including: project papers, books, reports etc.",
+      "On-demand interpretation services"
+    ]
+  - employer: "Ministry of Economy and Finance"
+    addr: "Chui av. 106"
+    pos: "Intern (JPO Programme)"
+    dates: "Mar 2021 - May 2021"
+    notes: [
+      "Working on monitoring Kyrgyzstan's Doing Business rating improvement plan",
+      "Working with bilateral Investment Agreement drafts",
+      "Translation/interpretation as required",
+    ]
+  - employer: "Cabar.asia Research Bureau"
+    addr: "Kievskaya 114/2"
+    pos: "Editor's Assistant"
+    dates: "Oct 2020 - Nov 2020"
+    notes: [
+      "Drafting monthly reports on CA countries",
+      "Transcribing meetings etc.",
+      "Translation as required",
+    ]
+  - employer: "OSCE Academy in Bishkek"
+    addr: "Botanicheskii per. 1A"
+    pos: "Library assistant"
+    dates: "Nov 2019 - Jul 2020"
+    notes: [
+      "Working with the archive",
+      "Books registration and checkout"
+    ]
+  - employer: "LLC Business Service Bishkek"
+    addr: "Kievskaya 77"
+    pos: "Specialist"
+    dates: "Nov 2018 - Aug 2019"
+    notes: [
+      "Company profile: State registration consultations and services",
+      "Maintaining office equipment etc.",
+      "Working with clients",
+    ]
+  - employer: "GMC Translation Service"
+    addr: "Pushkina 50"
+    pos: "Translator"
+    dates: "Jul 2016 - Aug 2016"
+    notes: [
+      "Translation as required",
+      "Proofreading as required",
+    ]
+  - employer: "Dr.Andrea Zinzani, Ph.D. Pol.Geo."
+    addr: "Talas and Zhambyl (Kazakhstan)"
+    pos: "Research Assistant"
+    dates: "Aug 2015 - Sep 2015"
+    notes: [
+      "Research: Water management in the Talas and Chui river basin",
+      "Handling appointments, finances, billing, accommodation etc.",
+      "Interpretation/Translation as required",
+    ]
+#################################################
+############ TECHNICAL SKILLS ###################
+################################################
+skills:
+  - name: "Text editing"
+    values: [
+      "Microsoft Office Suite",
+      "Libre Office Suite",
+      "Google Docs Editors",
+    ]
+  - name: "Translation"
+    values: [
+      "OmegaT Suite"
+    ]
+  - name: "Programming"
+    values: [
+      "Python (basic)",
+      "Shell (Bash / Zsh)",
+    ]
+#################################################
+############ CERTIFICATES  ######################
+################################################
+certificates:
+  - title: "Democratic Institution Building in CA - 30 years after Independence"
+    organizer: "OSCE Academy in Bishkek"
+    dates: "18-24 July 2021"
+    location: "Issyk-Kul, Kyrgyzstan"
+  - title: "Summer school for research preparation"
+    organizer: "OSCE Academy in Bishkek"
+    dates: "August 2019"
+    location: "Bishkek, Kyrgyzstan"
+  - title: "Kreatives Schreiben Workshop"
+    organizer: "DAAD Kyrgyzstan"
+    dates: "April 2017"
+    location: "Bishkek, Kyrgyzstan"
+  - title: "Workshop/Simulation: Conflict Prevention and Tolerance"
+    organizer: "SSC Europe/DAAD Kyrgyzstan"
+    dates: "March 2017"
+    location: "Bishkek, Kyrgyzstan"
+#################################################
+############## LANGUAGES  ######################
+################################################
+languages:
+  - cat: "Native"
+    langs: "Russian, Kyrgyz"
+  - cat: "Fluent"
+    langs: "English"
+  - cat: "Proficient"
+    langs: "Turkish, German"
