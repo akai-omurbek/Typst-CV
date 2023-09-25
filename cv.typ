@@ -35,7 +35,7 @@
 
 #let color1 = luma(230)
 
-#let data = yaml("example.yml")
+#let data = yaml("cv_info.yml")
 
 #let myblock(text, radius: {0pt}, under: false, height: auto) = {
   block(
