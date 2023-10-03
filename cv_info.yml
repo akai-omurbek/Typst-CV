@@ -27,81 +27,73 @@ workplaces:
     addr: "Abdrakhmanova 146-10"
     pos: "Freelance/Translator"
     dates: "Jun 2021 - present"
-    notes: [
-      "Document translation including: project papers, books, reports etc.",
-      "On-demand interpretation services"
-    ]
+    notes:
+      [
+        "Document translation including: project papers, books, reports etc.",
+        "On-demand interpretation services",
+      ]
   - employer: "Ministry of Economy and Finance"
     addr: "Chui av. 106"
     pos: "Intern (JPO Programme)"
     dates: "Mar 2021 - May 2021"
-    notes: [
-      "Working on monitoring Kyrgyzstan's Doing Business rating improvement plan",
-      "Working with bilateral Investment Agreement drafts",
-      "Translation/interpretation as required",
-    ]
+    notes:
+      [
+        "Working on monitoring Kyrgyzstan's Doing Business rating improvement plan",
+        "Working with bilateral Investment Agreement drafts",
+        "Translation/interpretation as required",
+      ]
   - employer: "Cabar.asia Research Bureau"
     addr: "Kievskaya 114/2"
     pos: "Editor's Assistant"
     dates: "Oct 2020 - Nov 2020"
-    notes: [
-      "Drafting monthly reports on CA countries",
-      "Transcribing meetings etc.",
-      "Translation as required",
-    ]
+    notes:
+      [
+        "Drafting monthly reports on CA countries",
+        "Transcribing meetings etc.",
+        "Translation as required",
+      ]
   - employer: "OSCE Academy in Bishkek"
     addr: "Botanicheskii per. 1A"
     pos: "Library assistant"
     dates: "Nov 2019 - Jul 2020"
-    notes: [
-      "Working with the archive",
-      "Books registration and checkout"
-    ]
+    notes: ["Working with the archive", "Books registration and checkout"]
   - employer: "LLC Business Service Bishkek"
     addr: "Kievskaya 77"
     pos: "Specialist"
     dates: "Nov 2018 - Aug 2019"
-    notes: [
-      "Company profile: State registration consultations and services",
-      "Maintaining office equipment etc.",
-      "Working with clients",
-    ]
+    notes:
+      [
+        "Company profile: State registration consultations and services",
+        "Maintaining office equipment etc.",
+        "Working with clients",
+      ]
   - employer: "GMC Translation Service"
     addr: "Pushkina 50"
     pos: "Translator"
     dates: "Jul 2016 - Aug 2016"
-    notes: [
-      "Translation as required",
-      "Proofreading as required",
-    ]
+    notes: ["Translation as required", "Proofreading as required"]
   - employer: "Dr.Andrea Zinzani, Ph.D. Pol.Geo."
     addr: "Talas and Zhambyl (Kazakhstan)"
     pos: "Research Assistant"
     dates: "Aug 2015 - Sep 2015"
-    notes: [
-      "Research: Water management in the Talas and Chui river basin",
-      "Handling appointments, finances, billing, accommodation etc.",
-      "Interpretation/Translation as required",
-    ]
+    notes:
+      [
+        "Research: Water management in the Talas and Chui river basin",
+        "Handling appointments, finances, billing, accommodation etc.",
+        "Interpretation/Translation as required",
+      ]
+
 #################################################
 ############ TECHNICAL SKILLS ###################
 ################################################
 skills:
   - name: "Text editing"
-    values: [
-      "Microsoft Office Suite",
-      "Libre Office Suite",
-      "Google Docs Editors",
-    ]
+    values:
+      ["Microsoft Office Suite", "Libre Office Suite", "Google Docs Editors"]
   - name: "Translation"
-    values: [
-      "OmegaT Suite"
-    ]
+    values: ["OmegaT Suite"]
   - name: "Programming"
-    values: [
-      "Python (basic)",
-      "Shell (Bash / Zsh)",
-    ]
+    values: ["Python (basic)", "Shell (Bash / Zsh)"]
 #################################################
 ############ CERTIFICATES  ######################
 ################################################
