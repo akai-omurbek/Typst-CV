@@ -36,7 +36,7 @@
 #let color1 = white
 /*#let color1 = luma(230)*/
 
-#let data = yaml("cv_info.yml")
+#let data = yaml("cv_rus_info.yml")
 
 #let myblock(text, radius: {0pt}, under: false, height: auto) = {
   block(
@@ -95,7 +95,7 @@ stack(dir: ltr,spacing: 6pt,
   gutter: 4pt,
   /* ********** LEFT CELL (JUST CV)*************** */
   myblock([
-  *C V* <cv>
+  *РЕЗЮМE* <cv>
   ],
   radius: (top-left: 15pt),
   under: false,
@@ -142,7 +142,7 @@ stack(dir: ltr,spacing: 6pt,
   columns: (65%,35%),
   gutter: 3pt,
   /* ******* LEFT SIDE [WORK EXP] ******** */
-  myblock([== Work experience], under: true) +
+  myblock([== Опыт работы], under: true) +
   for i in data.at("workplaces"){
       workitem(i)
   }, 
@@ -150,7 +150,7 @@ stack(dir: ltr,spacing: 6pt,
   /* ******* RIGHT SIDE [SIDEBAR] ******** */
 
     /* ****** E-Mail / Socials ******** */
-  myblock([== E-Mail / Socials], under: true) + 
+  myblock([== Эл.почта / Соц.сети], under: true) + 
   myblock(
     stack(
       dir:ttb,
@@ -162,7 +162,7 @@ stack(dir: ltr,spacing: 6pt,
     ) +
 
     /* ****** Education ******** */
-  myblock([== Education] + line(
+  myblock([== Образование] + line(
     length: 100%,
     stroke: 1pt,
     )
@@ -178,7 +178,7 @@ stack(dir: ltr,spacing: 6pt,
     ) +
 
     /* ****** Languages ******** */
-  myblock([== Languages], under: true) +
+  myblock([== Владение языками], under: true) +
 
   myblock(
     stack(
@@ -191,7 +191,7 @@ stack(dir: ltr,spacing: 6pt,
     ) +
 
     /* ****** Skills ******** */
-  myblock([== Technical skills], under: true) +
+  myblock([== Технические навыки], under: true) +
 
   myblock(
     stack(
@@ -207,7 +207,7 @@ stack(dir: ltr,spacing: 6pt,
     ) +
 
     /* ****** Certificates ******** */
-  myblock([== Certificates], under: true) +
+  myblock([== Сертификаты], under: true) +
 
   myblock(
     stack(
